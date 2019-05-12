@@ -8,7 +8,13 @@
 
 ### Day 2: May 12, 2019 Sunday
 
-**Today's Progress**: 
+**Today's Progress**: Completed the "Introduction to Basic HTML and HTML5" section of Responsive Web Design Certification (freeCodeCamp) and began working on "Introduction to Basic CSS". Learned about changing font colour, size, style, etc., as well as, some adjustments to images.
 
-**Thoughts**:
+**Thoughts**: Feeling pretty good about what I learned today. I will need to figure out how to grab the correct info to use Google Fonts.
+
+### Day [day]: May [date], 2019 [day of week]
+
+**Today's Progress**: [text].
+
+**Thoughts**: [text]
 

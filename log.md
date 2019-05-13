@@ -12,6 +12,13 @@
 
 **Thoughts**: Feeling pretty good about what I learned today. I will need to figure out how to grab the correct info to use Google Fonts.
 
+
+### Day 3: May 13, 2019 Monday
+
+**Today's Progress**: Read chapter 5 of HTML&CSS: design and build websites by Jon Duckett during my commute home.</br> Feeling pretty tired so only completed a few sessions on freeCodeCamp. [text].
+
+**Thoughts**: Feeling pretty tired from work today and not a lot of sleep last night.
+
 ### Day [day]: May [date], 2019 [day of week]
 
 **Today's Progress**: [text].

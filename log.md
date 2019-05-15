@@ -19,7 +19,11 @@
 
 **Thoughts**: Feeling pretty tired from work today and not a lot of sleep last night. A few simple but neat concepts.
 
+### Day 4: May 14, 2019 Tuesday
 
+**Today's Progress**: Worked through several freeCodeCamp sessions within Basic CSS. The main focus was on margins and padding of elements.
+
+**Thoughts**: Feeling pretty good about the concepts today. I'll need to continue to use them to get used to them more.
 
 ### Day [day]: May [date], 2019 [day of week]
 

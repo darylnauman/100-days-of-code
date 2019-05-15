@@ -25,6 +25,13 @@
 
 **Thoughts**: Feeling pretty good about the concepts today. I'll need to continue to use them to get used to them more.
 
+### Day 5: May 15, 2019 Wednesday
+
+**Today's Progress**: Started today learning about CSS colour overriding --> class is overridden by ID attributes, ID attributes are overridden by inline style. Next, I learned about hex codes and RGB values for colours. Finally, I finished up "Basic CSS" with CSS variables & media query.
+
+**Thoughts**: Today was good as I wasn't too tired from the day at work and it was fun to play with the colours and also pleased to have completed "Basic CSS".
+
+
 ### Day [day]: May [date], 2019 [day of week]
 
 **Today's Progress**: [text].

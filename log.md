@@ -37,6 +37,13 @@
 
 **Thoughts**: Long day at work although interesting as I participated in IT Day. Eyes are tired so did some reading and getting close to calling it a night.
 
+### Day 7: May 17, 2019 Thursday
+
+**Today's Progress**: Continued working through Applied Visual Design lessons including box-shadow, opacity, font-weight, font-size, and some CSS offsets.
+
+**Thoughts**: I had the day off from work today and while I had a few things to do ealier in the day, I was able to work through lessons before dinner which was great.
+
+
 ### Day [day]: May [date], 2019 [day of week]
 
 **Today's Progress**: [text].

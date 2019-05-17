@@ -31,6 +31,11 @@
 
 **Thoughts**: Today was good as I wasn't too tired from the day at work and it was fun to play with the colours and also pleased to have completed "Basic CSS".
 
+### Day 6: May 16, 2019 Thursday
+
+**Today's Progress**: Read more of "HTML&CSS: design and build websites" by Jon Duckett on my way home. Then worked through some Applied Visual Design lessons.
+
+**Thoughts**: Long day at work although interesting as I participated in IT Day. Eyes are tired so did some reading and getting close to calling it a night.
 
 ### Day [day]: May [date], 2019 [day of week]
 

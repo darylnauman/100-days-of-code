@@ -37,11 +37,18 @@
 
 **Thoughts**: Long day at work although interesting as I participated in IT Day. Eyes are tired so did some reading and getting close to calling it a night.
 
-### Day 7: May 17, 2019 Thursday
+### Day 7: May 17, 2019 Friday
 
 **Today's Progress**: Continued working through Applied Visual Design lessons including box-shadow, opacity, font-weight, font-size, and some CSS offsets.
 
 **Thoughts**: I had the day off from work today and while I had a few things to do ealier in the day, I was able to work through lessons before dinner which was great.
+
+### Day 8: May 18, 2019 Saturday
+
+**Today's Progress**: Learned more about colors within CSS and how to use an image as a background. Played around with linear-gradient, the transform property and before/after selectors.
+
+**Thoughts**: Had some fun today playing with colors and also tried a few things on my own using hover.
+
 
 
 ### Day [day]: May [date], 2019 [day of week]

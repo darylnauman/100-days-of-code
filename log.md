@@ -49,6 +49,11 @@
 
 **Thoughts**: Had some fun today playing with colors and also tried a few things on my own using hover.
 
+### Day 9: May 19, 2019 Sunday
+
+**Today's Progress**: I learned about CSS keyframes and animation properties, such as, animation-timing-function. Actually, I finished within Applied Visual Design the "Introduction to the Applied Visual Design Challenges"!
+
+**Thoughts**: Excited to have finished the "Introduction to the Applied Visual Design Challenges" but recognize I'll need more practice for the concepts to really stick.
 
 
 ### Day [day]: May [date], 2019 [day of week]

@@ -55,6 +55,11 @@
 
 **Thoughts**: Excited to have finished the "Introduction to the Applied Visual Design Challenges" but recognize I'll need more practice for the concepts to really stick.
 
+### Day 10: May 20, 2019 Monday
+
+**Today's Progress**: Worked through several of the Introduction to the Applied Accessibility Challenges sections. Learned about alt text, landmarks (header, footer, nav, etc.), audio controls, making some content only available for screen readers, fieldset element, and color considerations.
+
+**Thoughts**: Remember to make your websites accessible!
 
 ### Day [day]: May [date], 2019 [day of week]
 

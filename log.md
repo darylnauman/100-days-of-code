@@ -61,6 +61,13 @@
 
 **Thoughts**: Remember to make your websites accessible!
 
+### Day 11: May 21, 2019 Tuesday
+
+**Today's Progress**: Read some of "HTML&CSS: design and build websites" by Jon Duckett about forms on the ride home as I left work a bit late. Continued to work through accessibility challenges then moved on to basic responsive web design principles. 
+
+**Thoughts**: More practice will be key but it was still good to learn how to adjust images and other aspects of a site based on screen size for example.
+
+
 ### Day [day]: May [date], 2019 [day of week]
 
 **Today's Progress**: [text].

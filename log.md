@@ -67,6 +67,11 @@
 
 **Thoughts**: More practice will be key but it was still good to learn how to adjust images and other aspects of a site based on screen size for example.
 
+### Day 12: May 22, 2019 Wednesday
+
+**Today's Progress**: Read "HTML&CSS: design and build websites" by Jon Duckett again since it was another later night at work. A few light bulb moments around "label for" and form controls in general. As for freeCodeCamp - I learned about CSS flexbox. 
+
+**Thoughts**: Concepts are making sense and I'm looking forward to the challenge of coding all aspects of a page, i.e., not simply the small tweaks and additions for the concept being taught in the small lesson although those are important.
 
 ### Day [day]: May [date], 2019 [day of week]
 

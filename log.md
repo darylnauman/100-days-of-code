@@ -73,6 +73,12 @@
 
 **Thoughts**: Concepts are making sense and I'm looking forward to the challenge of coding all aspects of a page, i.e., not simply the small tweaks and additions for the concept being taught in the small lesson although those are important.
 
+### Day 13: May 23, 2019 Thursday
+
+**Today's Progress**: Learned about the align-items property and how to use properties: flex-shrink, flex-grow, flex-wrap, and order. Next up was a few CSS grid exercises.
+
+**Thoughts**: Exercises are making sense overall but it will be helpful to go through the projects and Jon Duckett's book for the concepts to really stick.
+
 ### Day [day]: May [date], 2019 [day of week]
 
 **Today's Progress**: [text].

@@ -79,6 +79,12 @@
 
 **Thoughts**: Exercises are making sense overall but it will be helpful to go through the projects and Jon Duckett's book for the concepts to really stick.
 
+### Day 14: May 24, 2019 Friday
+
+**Today's Progress**: I decided to take a break from @freeCodeCamp today & started a @lynda course: CSS Essentials Training 1. I think learning concepts through another means will help solidify them in my mind especially before trying to solve more challenging projects. Most of today involved watching the first few videos, setting up the exercise files, and starting the project files.
+
+**Thoughts**: The videos with exercise files I believe will be a good way to learn the material.
+
 ### Day [day]: May [date], 2019 [day of week]
 
 **Today's Progress**: [text].

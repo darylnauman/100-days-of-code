@@ -85,6 +85,12 @@
 
 **Thoughts**: The videos with exercise files I believe will be a good way to learn the material.
 
+### Day 15: May 25, 2019 Saturday
+
+**Today's Progress**: Continued working through CSS Essential Training 1 and while some concepts were new even those that I already had learned through other training I now feel like I understand them better. Setup a @jsfiddle account too! #100DaysOfCode Plus: Type, class, id selectors and pseudo-class selectors (e.g., active, hover, focus).
+
+**Thoughts**: Enjoyed setting up a JSFiddle account and practicing CSS within it. 
+
 ### Day [day]: May [date], 2019 [day of week]
 
 **Today's Progress**: [text].

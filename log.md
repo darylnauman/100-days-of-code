@@ -93,7 +93,7 @@
 
 ### Day 16: May 26, 2019 Sunday
 
-**Today's Progress**: Learned about RGB, hex, and color values plus how selectors relate and take priority. Gained more appreciation about font selection and a better understanding how to actually use Google fonts website. #100DaysOfCode.
+**Today's Progress**: Day 16: Learned about RGB, hex, and color values plus how selectors relate, as well as, what takes priority (e.g., class vs id). Gained more appreciation about font selection and a better understanding how to actually use Google fonts website. #100DaysOfCode
 
 **Thoughts**: Glad to have learned how to select Google fonts from the website.
 

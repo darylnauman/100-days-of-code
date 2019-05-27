@@ -97,6 +97,13 @@
 
 **Thoughts**: Glad to have learned how to select Google fonts from the website.
 
+
+### Day 17: May 27, 2019 Monday
+
+**Today's Progress**: Day 17: Continued to learn about typography including how to pull info from the Google Fonts website (e.g., code for HTML files, CSS rules) and adjust text (e.g., line-height, font-size). Gained a better understanding of block vs. inline and the box model. #100DaysOfCode
+
+**Thoughts**: Worked on some of this on the bus ride home -- not comfortable trying to balance my iPad and computer but I was able to keep up with the challenge and not do all of my coding later into the evening once home.
+
 ### Day [day]: May [date], 2019 [day of week]
 
 **Today's Progress**: [text].

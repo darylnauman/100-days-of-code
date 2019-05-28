@@ -104,6 +104,12 @@
 
 **Thoughts**: Worked on some of this on the bus ride home -- not comfortable trying to balance my iPad and computer but I was able to keep up with the challenge and not do all of my coding later into the evening once home.
 
+### Day 18: May 28, 2019 Tuesday
+
+**Today's Progress**: More work on CSS layouts - margins, padding, spacing. Straining on the bus to setup iPad and laptop might not be the best for learning and posture...  #100DaysOfCode.
+
+**Thoughts**: My neck is in pain which might be a result in part of trying to watch Lynda.com videos and code on my laptop while on the bus.
+
 ### Day [day]: May [date], 2019 [day of week]
 
 **Today's Progress**: [text].

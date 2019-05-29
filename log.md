@@ -110,6 +110,12 @@
 
 **Thoughts**: My neck is in pain which might be a result in part of trying to watch Lynda.com videos and code on my laptop while on the bus.
 
+### Day 19: May 29, 2019 Wednesday
+
+**Today's Progress**: Mainly CSS floats and overflow today. #100DaysOfCode
+
+**Thoughts**: Need to review overflow and clearing floats a bit more. Floats themselves are pretty straight forward.
+
 ### Day [day]: May [date], 2019 [day of week]
 
 **Today's Progress**: [text].

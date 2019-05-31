@@ -116,6 +116,12 @@
 
 **Thoughts**: Need to review overflow and clearing floats a bit more. Floats themselves are pretty straight forward.
 
+### Day 20: May 30, 2019 Thursday
+
+**Today's Progress**: Started reviewing some concepts from yesterday. Moved on to more about the box model including box-sizing and explored columns. Finished CSS Essential Training 1 by @christinatruong at @lynda! #100DaysOfCode
+
+**Thoughts**: Feeling pretty good -- need more work on clearing floats, although I feel better about this now. Columns make sense but will want to play with them more too. Glad to have made it through C
+
 ### Day [day]: May [date], 2019 [day of week]
 
 **Today's Progress**: [text].

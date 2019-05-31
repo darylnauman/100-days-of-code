@@ -120,7 +120,7 @@
 
 **Today's Progress**: Started reviewing some concepts from yesterday. Moved on to more about the box model including box-sizing and explored columns. Finished CSS Essential Training 1 by @christinatruong at @lynda! #100DaysOfCode
 
-**Thoughts**: Feeling pretty good -- need more work on clearing floats, although I feel better about this now. Columns make sense but will want to play with them more too. Glad to have made it through CSS Essential Training 1!
+**Thoughts**: Feeling pretty good -- need more work on clearing floats, although I feel better about this now. Columns make sense but will want to play with them more too. Pleased to have made it through CSS Essential Training 1!
 
 ### Day [day]: May [date], 2019 [day of week]
 

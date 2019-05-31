@@ -122,6 +122,12 @@
 
 **Thoughts**: Feeling pretty good -- need more work on clearing floats, although I feel better about this now. Columns make sense but will want to play with them more too. Pleased to have made it through CSS Essential Training 1!
 
+### Day 21: May 31, 2019 Friday
+
+**Today's Progress**: Started CSS Essential Training 2 which included a good review of some basics plus a few new concepts regarding selectors and combinators. #100DaysOfCode
+
+**Thoughts**: Went to have my eye exam today so glad that I did my learning and coding before having my pupiles dilated!
+
 ### Day [day]: May [date], 2019 [day of week]
 
 **Today's Progress**: [text].
